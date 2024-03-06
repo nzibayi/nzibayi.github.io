@@ -1,3 +1,3 @@
 # b
 کتاب اتحاد دوباره دین و خرد
-[label](http://example.com)
+[label](/book/book_23.htm)
