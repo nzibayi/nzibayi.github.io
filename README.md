@@ -223,6 +223,7 @@
 [طب نوین](https://nzibayi.github.io/book/tbnvy.htm)<br />
 [مردم آزاری](https://nzibayi.github.io/book/mrdmz.htm)<br />
 [ریش و ظاهر](https://nzibayi.github.io/book/ryshv.htm)<br />
+[قتل ام قرفه](https://nzibayi.github.io/book/ghtla.htm)<br />
 [فصل سوم سیاست](https://nzibayi.github.io/book/fslsv.htm)<br />
 [آیت الله العظمی خمینی](https://nzibayi.github.io/book/ytall.htm)<br />
 [رسوا ساختن چهره خامنه ای، حکومت طاغوت وی](https://nzibayi.github.io/book/rsvas.htm)<br />
