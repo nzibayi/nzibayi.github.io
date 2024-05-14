@@ -158,7 +158,7 @@
 [قران سوزی](https://nzibayi.github.io/book/ghran2.htm)<br />
 [دوست دختر یا پسر](https://nzibayi.github.io/book/dvstd.htm)<br />
 [اخلاص](https://nzibayi.github.io/book/akhla.htm)<br />
-[اسلام راستین](https://nzibayi.github.io/book/aslam5.htm)<br />
+[ارتباط اسلام راستین و عقلانیت](https://nzibayi.github.io/book/artba.htm)<br />
 [اربعین](https://nzibayi.github.io/book/arbyn.htm)<br />
 [رعایت حسب ظاهر](https://nzibayi.github.io/book/rayth.htm)<br />
 [عیب پوشی و اشاعه فحشاء](https://nzibayi.github.io/book/ybpvs.htm)<br />
@@ -224,6 +224,12 @@
 [مردم آزاری](https://nzibayi.github.io/book/mrdmz.htm)<br />
 [ریش و ظاهر](https://nzibayi.github.io/book/ryshv.htm)<br />
 [قتل ام قرفه](https://nzibayi.github.io/book/ghtla.htm)<br />
+[تشخیص صحیح (بسیار مهم)](https://nzibayi.github.io/book/tshkh.htm)<br />
+[تعزیر روزه خواری](https://nzibayi.github.io/book/tzyrr.htm)<br />
+[بهشت و جهنم](https://nzibayi.github.io/book/bhsht.htm)<br />
+[ولادت نامشروع، ولایت علی](https://nzibayi.github.io/book/vladt.htm)<br />
+[حیوانات، ولایت پذیری](https://nzibayi.github.io/book/hyvan.htm)<br />
+[دنیاخواهی](https://nzibayi.github.io/book/dnyak.htm)<br />
 [فصل سوم سیاست](https://nzibayi.github.io/book/fslsv.htm)<br />
 [آیت الله العظمی خمینی](https://nzibayi.github.io/book/ytall.htm)<br />
 [رسوا ساختن چهره خامنه ای، حکومت طاغوت وی](https://nzibayi.github.io/book/rsvas.htm)<br />
