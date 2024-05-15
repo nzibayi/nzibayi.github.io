@@ -1,6 +1,7 @@
 # خلاصه کتاب پیوند مجدد دین و خرد
 <br />
 
+[ارتباط اسلام راستین و عقلانیت](https://nzibayi.github.io/outline/artba.htm)<br />
 [اوامر و نواهی اخلاقی دین اسلام، حجاب](https://nzibayi.github.io/outline/avamr.htm)<br />
 [احکام شخصی اسلام، بروز رسانی ها](https://nzibayi.github.io/outline/ahkam.htm)<br />
 [احکام حکومتی اسلام، بروز رسانی ها](https://nzibayi.github.io/outline/ahkam2.htm)<br />
