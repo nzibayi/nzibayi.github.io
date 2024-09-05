@@ -230,6 +230,9 @@
 [ولادت نامشروع، ولایت علی](https://nzibayi.github.io/book/vladt.htm)<br />
 [حیوانات، ولایت پذیری](https://nzibayi.github.io/book/hyvan.htm)<br />
 [دنیاخواهی](https://nzibayi.github.io/book/dnyak.htm)<br />
+[غیرت](https://nzibayi.github.io/book/ghyrt.htm)<br />
+[توبه](https://nzibayi.github.io/book/tvbh.htm)<br />
+[مسلمانی قشری](https://nzibayi.github.io/book/mslma.htm)<br />
 [فصل سوم سیاست](https://nzibayi.github.io/book/fslsv.htm)<br />
 [آیت الله العظمی خمینی](https://nzibayi.github.io/book/ytall.htm)<br />
 [رسوا ساختن چهره خامنه ای، حکومت طاغوت وی](https://nzibayi.github.io/book/rsvas.htm)<br />
