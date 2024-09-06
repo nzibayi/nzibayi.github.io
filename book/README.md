@@ -259,4 +259,6 @@
 [نماز](https://nzibayi.github.io/book/nmaz.htm)<br />
 [شرح یک تجربه معنوی](https://nzibayi.github.io/book/shrhy.htm)<br />
 [محدوده علم غیب](https://nzibayi.github.io/book/mhdvd2.htm)<br />
+[وحی در چه مواردی می باشد؟](https://nzibayi.github.io/book/vhydr.htm)<br />
 [فصل ششم  احکام](https://nzibayi.github.io/book/fslsh.htm)<br />
+
