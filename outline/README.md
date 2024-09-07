@@ -31,4 +31,5 @@
 [ز عرفان، حق و باطل](https://nzibayi.github.io/outline/zrfan.htm)<br />
 [ح عرفان، مردم آزاری](https://nzibayi.github.io/outline/hrfan2.htm)<br />
 [ط تشخیص صحیح (بسیار مهم)](https://nzibayi.github.io/outline/ttshk.htm)<br />
+[دستورالعمل شیوه دعای مُجَرَّب](https://nzibayi.github.io/outline/dstvr.htm)<br />
 [دفاعیه](https://nzibayi.github.io/outline/dfayh.htm)<br />
