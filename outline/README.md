@@ -33,3 +33,5 @@
 [ط تشخیص صحیح (بسیار مهم)](https://nzibayi.github.io/outline/ttshk.htm)<br />
 [دستورالعمل شیوه دعای مُجَرَّب](https://nzibayi.github.io/outline/dstvr.htm)<br />
 [دفاعیه](https://nzibayi.github.io/outline/dfayh.htm)<br />
+[صیحه آسمانی](https://nzibayi.github.io/outline/syhhs.htm)<br />
+[زندگی نامه](https://nzibayi.github.io/outline/zndgh.htm)<br />
